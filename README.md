@@ -10,7 +10,7 @@ I am a Senior Statistician and Monitoring and Evaluation Expert with data analyt
 * ✉️  You can contact me at [ugramohan@gmail.com](mailto:ugramohan@gmail.com)
 * 🧠  I'm learning Power BI
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Nothing Else
+
 
 ### Skills
 
